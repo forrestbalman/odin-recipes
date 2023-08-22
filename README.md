@@ -14,3 +14,8 @@
             Added html page for lasagna recipe
             Added header to lasagna page
             Added anchor on homepage to lasagna
+        Iteration 3
+            Locate image of dish recipe is for
+            Added a description of the dish
+            Added an unordered list of ingredients
+            Added an ordered list of steps to follow
