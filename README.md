@@ -1,4 +1,5 @@
 # odin-recipes
+
     Setup
         Making a GitHub repo
         Cloning that repo
@@ -19,3 +20,5 @@
             Added a description of the dish
             Added an unordered list of ingredients
             Added an ordered list of steps to follow
+        Iteration 4
+            Repeated iterations 2 and 3 for 2 more recipes
